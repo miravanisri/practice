@@ -1,1 +1,2 @@
 This is my first git practice session
+and iam going to learn some new commands
