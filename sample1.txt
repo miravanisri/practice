@@ -1,2 +1,6 @@
 This is my first git practice session
 and iam going to learn some new commands
+These are all i learned:
+git init
+git push
+git commit
