@@ -1,6 +1,10 @@
-This is my first git practice session
-and iam going to learn some new commands
-These are all i learned:
-git init
-git push
-git commit
+
+<html>
+<head>
+<title>wonderful</title>
+<body>
+<h1> this is first session </h1>
+</body>
+</head>
+</html>
+
